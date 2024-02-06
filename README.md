@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naumovvs
 - 👀 I’m interested in optimization techniques, statistics, machine learning
-- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on international research projects in the field of transportation
 - 📫 How to reach me vitalii.naumov@pk.edu.pl
 
